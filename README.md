@@ -35,7 +35,7 @@ For a clear record of dependencies, add auth-module to your package.json:
 ```
 ## dependencies 
 
-- fastify: Fastify framework (v4+ recommended).
+- fastify: Fastify framework (v5 recommended).
 - @fastify/jwt: JSON Web Token support for session management.
 - @fastify/cookie: Cookie support for secure storage of JWT tokens.
 - @fastify/mysql: MySQL database support for user data.
