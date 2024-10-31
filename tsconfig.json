@@ -1,0 +1,9 @@
+{
+    "extends": "fastify-tsconfig",
+    "compilerOptions": {
+      "outDir": "auth-module",
+      "declaration": true,    
+      "noEmit": false
+    },
+    "include": ["./**/*.ts"]  
+}
